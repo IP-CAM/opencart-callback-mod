@@ -1,0 +1,19 @@
+2014-07-10 17:30:57 - PHP Notice:  Undefined variable: tab_callmeback in C:\xampp\sites\new.dev\www\admin\view\template\setting\setting.tpl on line 20
+2014-07-10 17:30:57 - PHP Notice:  Undefined variable: config_callmeback in C:\xampp\sites\new.dev\www\admin\view\template\setting\setting.tpl on line 1007
+2014-07-10 17:31:31 - PHP Notice:  Undefined variable: config_callmeback in C:\xampp\sites\new.dev\www\admin\view\template\setting\setting.tpl on line 1007
+2014-07-10 18:31:06 - PHP Notice:  Undefined variable: heading_title in C:\xampp\sites\new.dev\www\catalog\view\theme\default\template\module\callmebackmodul.tpl on line 2
+2014-07-11 14:53:51 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 14:54:37 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 14:55:17 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 14:56:13 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 17:04:23 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 17:05:00 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 17:05:27 - PHP Notice:  Error: Could not load language module/callmebackmodul.php! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 17:05:33 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-11 18:21:20 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-14 9:44:35 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-14 9:51:05 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-14 10:36:04 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-14 16:09:54 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-15 10:37:52 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
+2014-07-15 10:37:57 - PHP Notice:  Error: Could not load language module/callmebackmodul! in C:\xampp\sites\new.dev\www\system\library\language.php on line 39
